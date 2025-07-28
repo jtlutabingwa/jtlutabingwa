@@ -6,7 +6,7 @@ As a junior in Computer Science at the University of North Carolina at Charlotte
 <br>
 This portfolio showcases my ongoing development as I document hands-on projects, challenges, and achievements throughout my journey into cybersecurity. It reflects my commitment to continuous learning and highlights the diverse tools and real-world experiences I’ve gained along the way.
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 Projects:</h2>
 - <a href="https://github.com/jtlutabingwa/Kali-Linux-Malware-Analysis">Kali Linux Malware Analysis: Home Lab</a>
 <br>
 <br>
