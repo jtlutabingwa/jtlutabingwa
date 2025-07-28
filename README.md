@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- [Kali Linux Malware Analysis: Home Lab](https://github.com/jtlutabingwa/label)
+- [Kali Linux Malware Analysis: Home Lab](https://github.com/jtlutabingwa/Kali-Linux-Malware-Analysis)
 
 
 <h2>Certifications</h2>
