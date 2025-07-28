@@ -7,11 +7,20 @@ As a junior Computer Science student at the University of North Carolina at Char
 This portfolio showcases my ongoing development as I document hands-on projects, challenges, and achievements throughout my journey into cybersecurity. It reflects my commitment to continuous learning and highlights the diverse tools and real-world experiences I’ve gained along the way.
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
-- [Kali Linux Malware Analysis: Home Lab](https://github.com/jtlutabingwa/Kali-Linux-Malware-Analysis)
+- <a href="https://github.com/jtlutabingwa/Kali-Linux-Malware-Analysis">Kali Linux Malware Analysis: Home Lab</a>
 
 
 <h2>Certifications</h2>
-- [Google Cybersecurity Professional](https://www.credly.com/earner/earned/badge/1be54bd8-4849-4ac2-943d-efbb12029b94)
+- <a href="https://www.credly.com/earner/earned/badge/1be54bd8-4849-4ac2-943d-efbb12029b94">Google Cybersecurity Professional</a>
+<br>
+<br>
+- <a href="https://www.credly.com/badges/3148feab-b17a-49ef-8cae-653396f35fb2/linked_in_profile">ISC2 Candidate</a>
+<br>
+<br>
+- <a href="https://freecodecamp.org/certification/jonathanlutabingwa/responsive-web-design">Responsive Web Design</a>
+<br>
+<br>
+- <a href="https://freecodecamp.org/certification/jonathanlutabingwa/javascript-algorithms-and-data-structures-v8">Javascript and Data Structures</a>
 
 <h2> 🤳 Connect with me:</h2>
 <a href="https://www.linkedin.com/in/jonathan-lutabingwa/"> <img align="left" href="https://www.linkedin.com/in/jonathan-lutabingwa/" alt="JonathanLutabingwa | LinkedIn" width="22px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/> </a>
