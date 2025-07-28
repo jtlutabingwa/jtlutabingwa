@@ -1,7 +1,7 @@
-<h1>Hi, I'm Jonathan! <br/><a href="https://github.com/jtlutabingwa"> Aspiring Cybersecuirty/IT Specialist</a>, <a [href="https://www.linkedin.com/in/jonathan-lutabingwa/"></a> </h1>
+<h1>Hi, I'm Jonathan! <br/><a href="https://github.com/jtlutabingwa"> Aspiring Cybersecuirty/IT Specialist</a> </h1>
 
 <h2>Summary</h2>
-As a junior Computer Science student at the University of North Carolina at Charlotte, I am fueled by a passion for technology and a strong desire to excel in the field of cybersecurity. With a solid foundation in computer science and a planned concentration in cybersecurity, I am dedicated to mastering a wide range of programming languages and tools, including C++, Python, C, HTML, CSS, SQL, Linux, Wireshark, Splunk, and Java.
+As a junior in Computer Science at the University of North Carolina at Charlotte, I am driven by a passion for technology and a strong desire to excel in the field of cybersecurity. With a solid foundation in computer science and a planned concentration in cybersecurity, I am dedicated to mastering a wide range of programming languages and tools, including C++, Python, C, HTML, CSS, SQL, Linux, Wireshark, Splunk, and Java.
 <br>
 <br>
 This portfolio showcases my ongoing development as I document hands-on projects, challenges, and achievements throughout my journey into cybersecurity. It reflects my commitment to continuous learning and highlights the diverse tools and real-world experiences I’ve gained along the way.
