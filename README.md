@@ -8,6 +8,10 @@ This portfolio showcases my ongoing development as I document hands-on projects,
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 - <a href="https://github.com/jtlutabingwa/Kali-Linux-Malware-Analysis">Kali Linux Malware Analysis: Home Lab</a>
+<br>
+<br>
+- <a href="https://jtlutabingwa.github.io/itis3135/project/">The Concious Closet</a>
+
 
 
 <h2>Certifications</h2>
