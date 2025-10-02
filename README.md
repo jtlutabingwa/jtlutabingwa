@@ -11,9 +11,9 @@ This portfolio highlights my **hands-on projects**, **competitions**, and **achi
 ---
 
 ## 👨‍💻 Projects
-- [🔒 Kali Linux Malware Analysis: Home Lab](https://github.com/jtlutabingwa/Kali-Linux-Malware-Analysis)  
-- [♻️ The Conscious Closet](https://jtlutabingwa.github.io/itis3135/project/)  
-- [🕵️ Holmes CTF 2025: Write-Up](https://github.com/jtlutabingwa/Holmes-CTF)
+- [🕵️ Holmes CTF 2025: Write-Up](https://github.com/jtlutabingwa/Holmes-CTF) - An official write-up on the Holmes Capture the Flag 2025 competition.
+- [🔒 Kali Linux Malware Analysis: Home Lab](https://github.com/jtlutabingwa/Kali-Linux-Malware-Analysis) - An analysis of a metasploit payload in action.
+- [♻️ The Conscious Closet](https://jtlutabingwa.github.io/itis3135/project/) - An educational website on sustainable fashion and best practices.
 
 ---
 
