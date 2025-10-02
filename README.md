@@ -16,6 +16,8 @@ This portfolio highlights my **hands-on projects**, **challenges**, and **achiev
 ## 👨‍💻 Projects
 - [🔒 Kali Linux Malware Analysis: Home Lab](https://github.com/jtlutabingwa/Kali-Linux-Malware-Analysis)  
 - [♻️ The Conscious Closet](https://jtlutabingwa.github.io/itis3135/project/)
+- [🕵️ Holmes CTF: Forensics & Incident Response](https://github.com/jtlutabingwa/Holmes-CTF-2025)
+
 
 ---
 
