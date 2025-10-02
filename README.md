@@ -28,7 +28,7 @@ This portfolio highlights my **hands-on projects**, **competitions**, and **achi
 
 ## 🎓 Certifications
 - [Google Cybersecurity Professional](https://www.credly.com/earner/earned/badge/1be54bd8-4849-4ac2-943d-efbb12029b94)  
-- [ISC2 Certified in Cybersecurity](https://www.credly.com/badges/3148feab-b17a-49ef-8cae-653396f35fb2/linked_in_profile)  
+- [ISC2 Candidate](https://www.credly.com/badges/3148feab-b17a-49ef-8cae-653396f35fb2/linked_in_profile)  
 - [Responsive Web Design (freeCodeCamp)](https://freecodecamp.org/certification/jonathanlutabingwa/responsive-web-design)  
 - [JavaScript and Data Structures (freeCodeCamp)](https://freecodecamp.org/certification/jonathanlutabingwa/javascript-algorithms-and-data-structures-v8)  
 
