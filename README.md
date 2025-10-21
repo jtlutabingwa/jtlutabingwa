@@ -11,6 +11,7 @@ This portfolio highlights my **hands-on projects**, **competitions**, and **achi
 ---
 
 ## 👨‍💻 Projects
+- [🔐 Password Strength Checker & Generator](https://github.com/jtlutabingwa/Password-Project) - A simple WPF application built to gain more knowledge of C# and .NET
 - [🕵️ Holmes CTF 2025: Write-Up](https://github.com/jtlutabingwa/Holmes-CTF-2025) - An official write-up on the Holmes Capture the Flag 2025 competition.
 - [🔒 Kali Linux Malware Analysis: Home Lab](https://github.com/jtlutabingwa/Kali-Linux-Malware-Analysis) - An analysis of a metasploit payload in action.
 - [♻️ The Conscious Closet](https://jtlutabingwa.github.io/itis3135/project/) - An educational website on sustainable fashion and best practices.
