@@ -19,8 +19,17 @@ This portfolio highlights my **hands-on projects**, **competitions**, and **achi
 ---
 
 ## 🏆 Competitions
+**Hack The Boo 2025** | *Solo Competition*
+
+*Tools: OSINT, Reverse Engineering, Digital Forensics, Web Exploitation, PWN, Crypto, Python, BinaryNinja, Ghidra, Wireshark, Kali Linux*
+
+- Competed individually in Hack The Box’s annual Halloween-themed Capture the Flag competition.
+- Solved 15 out of 23 challenges spanning OSINT, reverse engineering, digital forensics, and exploitation techniques.
+- 🟧 *Placed Top 9% (259 / 2,893 participants) — demonstrating growth in problem-solving, persistence, and technical adaptability across multiple cybersecurity domains.*
+
 **Holmes CTF 2025** | *Team Competition*  
-*Tools: Event Viewer, Wireshark, Linux, VMware, PowerShell*  
+
+*Tools: Event Viewer, Wireshark, Ubuntu, VMware, PowerShell*  
 - Collaborated with a team of 5 peers in a week-long global Capture the Flag competition.  
 - Solved 50 forensic/security tasks spanning Threat Intel, SOC, DFIR, and Malware Reversing.  
 ✅ *Placed Top 8% (634/7,085 teams) — showcasing blue-team defense, forensics, and teamwork.*  
