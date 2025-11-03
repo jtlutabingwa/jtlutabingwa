@@ -19,13 +19,22 @@ This portfolio highlights my **hands-on projects**, **competitions**, and **achi
 ---
 
 ## 🏆 Competitions
+
+**HackTheBox: North Carolina Army National Guard CTF** | *Team Competition*
+
+*Tools: Volatility3, Promon, Docker, Kali Linux, OSINT, Reverse Engineering, Digital Forensics, AI Exploitation, Web Exploitation*
+
+- Collaborated with a team of 5 peers as part of UNC Charlotte’s 49th Security Division in a Hack The Box Capture The Flag event hosted by the North Carolina Army National Guard, facing 23 collegiate teams.
+- Captured 15+ forensic and exploitation-based flags across multiple domains including OSINT, reverse engineering, digital forensics, and AI exploitation.
+- ✅ *Placed 2nd overall — demonstrating excellence in technical analysis, collaboration, and applied forensics under timed competition conditions.*
+
 **Hack The Boo 2025** | *Solo Competition*
 
 *Tools: OSINT, Reverse Engineering, Digital Forensics, Web Exploitation, PWN, Crypto, Python, BinaryNinja, Ghidra, Wireshark, Kali Linux*
 
 - Competed individually in Hack The Box’s annual Halloween-themed Capture the Flag competition.
 - Solved 15 out of 23 challenges spanning OSINT, reverse engineering, digital forensics, and exploitation techniques.
-- 🟧 *Placed Top 9% (259 / 2,893 participants) — demonstrating growth in problem-solving, persistence, and technical adaptability across multiple cybersecurity domains.*
+- ✅ *Placed Top 9% (259 / 2,893 participants) — demonstrating growth in problem-solving, persistence, and technical adaptability across multiple cybersecurity domains.*
 
 **Holmes CTF 2025** | *Team Competition*  
 
