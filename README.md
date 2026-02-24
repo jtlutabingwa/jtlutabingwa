@@ -22,7 +22,7 @@ This portfolio highlights my **hands-on projects**, **competitions**, and **achi
 
 **HackTheBox: North Carolina Army National Guard CTF** | *Team Competition*
 
-*Tools: Volatility3, Promon, Docker, Kali Linux, OSINT, Reverse Engineering, Digital Forensics, AI Exploitation, Web Exploitation*
+*Tools: Volatility3, Procmon, Docker, Kali Linux, OSINT, Reverse Engineering, Digital Forensics, AI Exploitation, Web Exploitation*
 
 - Collaborated with a team of 5 peers as part of UNC Charlotte’s 49th Security Division in a Hack The Box Capture The Flag event hosted by the North Carolina Army National Guard, facing 23 collegiate teams.
 - Captured 15+ forensic and exploitation-based flags across multiple domains including OSINT, reverse engineering, digital forensics, and AI exploitation.
