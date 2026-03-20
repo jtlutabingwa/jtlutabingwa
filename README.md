@@ -8,18 +8,6 @@ Junior in Computer Science at UNC Charlotte with a concentration in Cybersecurit
  
 ---
  
-## 🏆 Competition Highlights
- 
-| Competition | Format | Result |
-|---|---|---|
-| **HackTheBox: NC Army National Guard CTF** | Team (5) — 23 collegiate teams | **2nd Place** |
-| **Hack The Boo 2025** | Solo — 2,893 participants | **Top 9%** (259th) |
-| **Holmes CTF 2025** | Team (5) — 7,085 teams | **Top 8%** (634th) |
- 
-Domains: OSINT · Reverse Engineering · Digital Forensics · Web Exploitation · Malware Reversing · AI Exploitation · Cryptography
- 
----
- 
 ## 👨‍💻 Projects
  
 **Security**
@@ -33,6 +21,18 @@ Domains: OSINT · Reverse Engineering · Digital Forensics · Web Exploitation �
 **Development**
 - [♻️ The Conscious Closet](https://jtlutabingwa.github.io/assets/itis3135/project/) — Educational website on sustainable fashion built with HTML/CSS/JS.
 - [🏥 Hospital Management Database](https://github.com/jtlutabingwa/Hospital-Management-Database-Project/tree/main) — Relational SQL database system managing patients, doctors, billing, and insurance.
+ 
+---
+ 
+## 🏆 Competition Highlights
+ 
+| Competition | Format | Result |
+|---|---|---|
+| **HackTheBox: NC Army National Guard CTF** | Team (5) — 23 collegiate teams | **2nd Place** |
+| **Hack The Boo 2025** | Solo — 2,893 participants | **Top 9%** (259th) |
+| **Holmes CTF 2025** | Team (5) — 7,085 teams | **Top 8%** (634th) |
+ 
+Domains: OSINT · Reverse Engineering · Digital Forensics · Web Exploitation · Malware Reversing · AI Exploitation · Cryptography
  
 ---
  
@@ -57,3 +57,6 @@ Domains: OSINT · Reverse Engineering · Digital Forensics · Web Exploitation �
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
+ 
+
+
