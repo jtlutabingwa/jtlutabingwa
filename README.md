@@ -13,6 +13,8 @@ This portfolio highlights my **hands-on projects**, **competitions**, and **achi
 ## 👨‍💻 Projects
 - [🕵️ Holmes CTF 2025: Write-Up](https://github.com/jtlutabingwa/Holmes-CTF-2025) - An official write-up on the Holmes Capture the Flag 2025 competition.
 - [🔒 Kali Linux Malware Analysis: Home Lab](https://github.com/jtlutabingwa/Kali-Linux-Malware-Analysis) - An analysis of a metasploit payload in action.
+- [☁️ AWS Cloud Projects](https://github.com/jtlutabingwa/AWS-Cloud-Projects) - A collection of hands-on AWS projects for learning cloud fundamentals.
+- [📄 AWS Cloud Resume](https://github.com/jtlutabingwa/AWS-Cloud-Resume) - A static resume hosted on AWS using S3 for object storage and CloudFront as a global CDN.
 - [♻️ The Conscious Closet](https://jtlutabingwa.github.io/assets/itis3135/project/) - An educational website on sustainable fashion and best practices.
 - [🏥 Hospital Management Database System Project](https://github.com/jtlutabingwa/Hospital-Management-Database-Project/tree/main) - A class project that developed a Hospital Management Database System to manage patients, doctors, billing, and insurance using a relational SQL database.
 
