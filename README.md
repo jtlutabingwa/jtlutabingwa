@@ -15,8 +15,10 @@ Junior in Computer Science at UNC Charlotte with a concentration in Cybersecurit
 - [🔒 Kali Linux Malware Analysis: Home Lab](https://github.com/jtlutabingwa/Kali-Linux-Malware-Analysis) — Analysis of a Metasploit payload in a controlled lab environment.
  
 **Cloud & Infrastructure**
-- [☁️ AWS Cloud Projects](https://github.com/jtlutabingwa/AWS-Cloud-Projects) — Hands-on AWS projects covering EC2, Security Groups, Nginx, and more.
-- [📄 AWS Cloud Resume](https://github.com/jtlutabingwa/AWS-Cloud-Resume) — Static resume deployed on AWS using S3 and CloudFront as a global CDN.
+- [☁️ AWS Cloud Projects](https://github.com/jtlutabingwa/AWS-Cloud-Projects) — Hands-on AWS projects covering core cloud services:
+  - [Cloud Resume](https://github.com/jtlutabingwa/AWS-Cloud-Resume) — Static resume deployed with S3 and CloudFront
+  - [EC2 Web Server](https://github.com/jtlutabingwa/AWS-Cloud-Projects/tree/main/ec2-web-server) — Nginx web server on an EC2 instance
+  - [Serverless To-Do API](https://github.com/jtlutabingwa/AWS-Cloud-Projects/tree/main/serverless-todo-api) — REST API with Lambda, API Gateway, and DynamoDB
  
 **Development**
 - [♻️ The Conscious Closet](https://jtlutabingwa.github.io/assets/itis3135/project/) — Educational website on sustainable fashion built with HTML/CSS/JS.
