@@ -1,6 +1,8 @@
 # Jonathan Lutabingwa
- 
-**Cybersecurity & IT** · Computer Science @ UNC Charlotte · [LinkedIn](https://www.linkedin.com/in/jonathan-lutabingwa/)
+
+**Cybersecurity & IT** · Computer Science @ UNC Charlotte 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-lutabingwa/)
  
 ---
  
@@ -39,26 +41,56 @@ Domains: OSINT · Reverse Engineering · Digital Forensics · Web Exploitation �
 ---
  
 ## 🎓 Certifications
- 
-[Google Cybersecurity Professional](https://www.credly.com/earner/earned/badge/1be54bd8-4849-4ac2-943d-efbb12029b94) · [ISC2 Candidate](https://www.credly.com/badges/3148feab-b17a-49ef-8cae-653396f35fb2/linked_in_profile) · [Responsive Web Design](https://freecodecamp.org/certification/jonathanlutabingwa/responsive-web-design) · [JavaScript & Data Structures](https://freecodecamp.org/certification/jonathanlutabingwa/javascript-algorithms-and-data-structures-v8)
+
+[![Google Cybersecurity Professional](https://img.shields.io/badge/Google_Cybersecurity_Professional-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://www.credly.com/earner/earned/badge/1be54bd8-4849-4ac2-943d-efbb12029b94)
+[![ISC2 Candidate](https://img.shields.io/badge/ISC2_Candidate-00A98F?style=for-the-badge&logo=isc2&logoColor=white)](https://www.credly.com/badges/3148feab-b17a-49ef-8cae-653396f35fb2/linked_in_profile)
+[![Responsive Web Design](https://img.shields.io/badge/Responsive_Web_Design-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://freecodecamp.org/certification/jonathanlutabingwa/responsive-web-design)
+[![JavaScript & Data Structures](https://img.shields.io/badge/JavaScript_%26_Data_Structures-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://freecodecamp.org/certification/jonathanlutabingwa/javascript-algorithms-and-data-structures-v8)
  
 ---
  
 ## 🛠️ Skills
- 
-| Category | Tools |
-|---|---|
-| **Security** | Kali Linux, Splunk, Wireshark, Metasploit, Nmap, Suricata, John the Ripper, Volatility3, Event Viewer |
-| **Languages** | Python, Java, C, SQL, Bash, PowerShell, HTML/CSS/JS |
-| **Platforms** | Linux, Windows, AWS (EC2, S3, CloudFront), Azure, IAM/IDM, VMware |
- 
+
+**Security**
+
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white)
+![Suricata](https://img.shields.io/badge/Suricata-EF3E36?style=for-the-badge&logo=suricata&logoColor=white)
+![John the Ripper](https://img.shields.io/badge/John_the_Ripper-BA1212?style=for-the-badge&logoColor=white)
+![Volatility3](https://img.shields.io/badge/Volatility3-4B0082?style=for-the-badge&logoColor=white)
+![Event Viewer](https://img.shields.io/badge/Event_Viewer-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**Platforms**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
+
 ---
- 
+
 <p>
   <a href="https://www.linkedin.com/in/jonathan-lutabingwa/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
+ 
  
 
 
