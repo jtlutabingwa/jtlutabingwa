@@ -84,13 +84,6 @@ Domains: OSINT · Reverse Engineering · Digital Forensics · Web Exploitation �
 ![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
 
 ---
-
-<p>
-  <a href="https://www.linkedin.com/in/jonathan-lutabingwa/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
- 
  
 
 
