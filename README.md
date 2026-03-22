@@ -7,7 +7,9 @@
 ---
  
 Junior in Computer Science at UNC Charlotte with a concentration in Cybersecurity. I compete in CTFs, build cloud infrastructure, and break things in home labs to understand how to defend them. This profile is a living portfolio of that work.
- 
+
+ > 🌐 **[View my full portfolio →](https://jtlutabingwa.github.io/)**
+
 ---
  
 ## 👨‍💻 Projects
