@@ -23,6 +23,7 @@ Junior in Computer Science at UNC Charlotte with a concentration in Cybersecurit
   - [Cloud Resume](https://github.com/jtlutabingwa/AWS-Cloud-Resume) — Static resume deployed with S3 and CloudFront
   - [EC2 Web Server](https://github.com/jtlutabingwa/AWS-Cloud-Projects/tree/main/ec2-web-server) — Nginx web server on an EC2 instance
   - [Serverless To-Do API](https://github.com/jtlutabingwa/AWS-Cloud-Projects/tree/main/serverless-todo-api) — REST API with Lambda, API Gateway, and DynamoDB
+  - [CI/CD Pipeline — GitHub Actions to AWS](https://github.com/jtlutabingwa/AWS-Cloud-Projects/tree/main/cicd-pipeline) - Set up a CI/CD pipeline using GitHub Actions that automatically deploys my Cloud Resume to S3.
   - [AWS Log Monitoring & Alert System](https://github.com/jtlutabingwa/AWS-Cloud-Projects/tree/main/log-monitoring-alert-system)  - Monitoring system built on with S3, Lambda, CloudWatch, SNS
  
 **Development**
