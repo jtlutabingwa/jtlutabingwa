@@ -25,6 +25,7 @@ Junior in Computer Science at UNC Charlotte with a concentration in Cybersecurit
   - [Serverless To-Do API](https://github.com/jtlutabingwa/AWS-Cloud-Projects/tree/main/serverless-todo-api) — REST API with Lambda, API Gateway, and DynamoDB.
   - [CI/CD Pipeline — GitHub Actions to AWS](https://github.com/jtlutabingwa/AWS-Cloud-Projects/tree/main/cicd-pipeline) - Set up a CI/CD pipeline using GitHub Actions that deploys my Cloud Resume to S3.
   - [AWS Log Monitoring & Alert System](https://github.com/jtlutabingwa/AWS-Cloud-Projects/tree/main/log-monitoring-alert-system)  - Monitoring system built on with S3, Lambda, CloudWatch, SNS.
+  - [AI Smart Assistant](https://github.com/jtlutabingwa/AWS-Cloud-Projects/tree/main/ai-smart-assistant) - Built an AI Assistant for example HR dept using Bedrock, OpenSearch, DynamoDB, Lambda.
  
 **Development**
 - [♻️ The Conscious Closet](https://jtlutabingwa.github.io/assets/itis3135/project/) — Educational website on sustainable fashion built with HTML/CSS/JS.
